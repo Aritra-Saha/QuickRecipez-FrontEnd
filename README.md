@@ -2,12 +2,11 @@
 Easy-to-make Recipes at the press of a button!
 ## General Information
 This is the front-end of a native mobile camera app that allows the user to take a picture of foods they want to cook with and returns to the user a list of recipes with information such as a title, description, directions, ingredients and nutritional value.
-## Setup
-Download python and pygame using the following links.
-
-https://www.python.org/downloads/
-
-https://www.pygame.org/download.shtml
+## Technologies Used
+* React Native
+* Expo
+* React Navigation
+* Expo Camera
 ## Code Examples
 ```
 class projectile():
