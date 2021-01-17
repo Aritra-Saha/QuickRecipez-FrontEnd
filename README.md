@@ -18,5 +18,7 @@ We learned to develop on the React Native framework while testing on the Expo Cl
 * Github Issues
 * Navigation between screens
 * Sleep deprivation
+## Back End
+https://github.com/Aritra-Saha/QuickRecipez-BackEnd
 ## Video Demo
 https://www.youtube.com/watch?v=xJOzarCUzGk&feature=youtu.be&ab_channel=AritraBanik
