@@ -1,5 +1,5 @@
 # QuickRecipez-FrontEnd
-Easy to make Recipes at the press of a button!
+Easy-to-make Recipes at the press of a button!
 ## General Information
 I created this game using the Pygame module on Python. I was inspired by the games I played as a child and I wanted to recreate the fun of playing those games using my immediate passion of programming. This game uses Object Oriented Programming and was my first ever dive into the world of game design. 
 ## Setup
