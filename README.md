@@ -7,21 +7,8 @@ This is the front-end of a native mobile camera app that allows the user to take
 * Expo
 * React Navigation
 * Expo Camera
-## Code Examples
-```
-class projectile():
-    def __init__ (self, x, y, radius, color, facing):
-        self.x = x
-        self.y = y
-        self.radius = radius
-        self.color = color
-        self.facing = facing
-        self.vel = 8 * facing
-
-    def draw(self, win):
-        pygame.draw.circle(win, self.color, (self.x, self.y), self.radius)
-```
-## Status
-This project is still in progress.
+* JSON
+## Inspiration
+We were inspired by our time at university where we would often get hungry but were sick and tired of eating fast food. We wanted something home cooked and so we decided to 
 ## Contact Information
 You can contact me at aritrasaha01@gmail.com
