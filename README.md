@@ -1,7 +1,7 @@
 # QuickRecipez-FrontEnd
 Easy-to-make Recipes at the press of a button!
 ## General Information
-I created this game using the Pygame module on Python. I was inspired by the games I played as a child and I wanted to recreate the fun of playing those games using my immediate passion of programming. This game uses Object Oriented Programming and was my first ever dive into the world of game design. 
+This is the front-end of a native mobile camera app that allows the user to take a picture of foods they want to cook with and returns to the user a list of recipes with information such as a title, description, directions, ingredients and nutritional value.
 ## Setup
 Download python and pygame using the following links.
 
